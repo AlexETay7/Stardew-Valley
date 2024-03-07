@@ -15,9 +15,10 @@ of a popular video game called Stardew Valley.
 This project was a lot of fun. I think that overall the most difficult
 part was (like Dr. Yeh said) the MaxHeap class. The MaxHeap class as a whole
 was not too bad, but it was the heapIncreaseKey() and heapIncrease() methods
-that took me a while to figure out. I initially was reading into the pseudo
-code TOO much by copying it exactly into my code, without thinking through
-the code to see if it actually made sense. 
+that took me a while to figure out. I had to make sure to walk through the 
+psuedo code in my head before blindly implementing it as the pseudo code
+in the algorithms book was for languages with indexing starting at 1 whereas
+Java has 0-based indexed arrays.
 
 The other issue I had was with the compareTo() method. While coding up
 the compareTo() method I absentmindedly said that if two tasks have the 
