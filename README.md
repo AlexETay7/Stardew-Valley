@@ -7,8 +7,7 @@
 ## Overview
 
 In this project I implemented and used a Priority Queue abstract data type 
-(by extending a MaxHeap data structure represented as an array)  
-to simulate a priority-based task management algorithm that simulates a part
+(by extending a MaxHeap data structure represented as an array) to simulate a priority-based task management algorithm that simulates a part
 of a popular video game called Stardew Valley. 
 
 ## Reflection
