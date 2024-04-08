@@ -1,8 +1,7 @@
 # Project #2: Stardew Valley
 
 * Author: Alex Taylor
-* Class: CS321 Section #002
-* Semester: Sp24
+* University Project
 
 ## Overview
 
